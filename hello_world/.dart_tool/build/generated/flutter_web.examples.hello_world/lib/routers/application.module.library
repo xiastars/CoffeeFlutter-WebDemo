@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["balanx_android|lib/routers/routers.dart","fluro|lib/fluro.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":[]}

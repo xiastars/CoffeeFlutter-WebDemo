@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","flutter_web|lib/foundation.dart","flutter_web.examples.hello_world|lib/flutter_page_indicator.dart","flutter_web.examples.hello_world|lib/transformer_page_view.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["async"]}

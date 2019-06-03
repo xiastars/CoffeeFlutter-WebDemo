@@ -1,0 +1,1 @@
+{"isEntrypoint":true,"deps":["flutter_web|lib/material.dart","http|lib/http.dart","flutter_web.examples.hello_world|lib/cook.dart","flutter_web.examples.hello_world|lib/flutter_swiper.dart"],"parts":[],"conditionalDeps":[],"sdkDeps":["convert"]}
